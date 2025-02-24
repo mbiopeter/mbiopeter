@@ -1,6 +1,6 @@
-# Hi There, 👋 I'm Emmanuel
-![Mbio Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelOwen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelOwen&layout=compact)
+# Hi There, 👋 I'm Peter Mbio
+![Mbio Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbiopeter&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbiopeter&layout=compact)
  
 # Languages & Tools
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
